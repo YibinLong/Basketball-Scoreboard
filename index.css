@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    text-align: center;
+    height: 100vh;
+    background-color: #1B244A;
+}
+
+h3 {
+    font-family: Verdana;
+    font-size: 40px;
+    color: #EEEEEE;
+}
+
+button { 
+    font-family: inherit;
+    color: #9AABD8;
+    background: none;
+    border:2px solid #9AABD8;
+    top: 50%;
+}
+
+#new_game {
+    margin-top: 250px;
+}
+
+.score {
+    padding: 5px 0;
+    height: 100px;
+    width: 120px;
+    margin: 20px;
+    background: #080001;
+    font-size: 90px;
+    color: #F94F6D;
+}
+
+.container {
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+
