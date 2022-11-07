@@ -9,6 +9,9 @@ function newGame(){
     guestScoreEl.textContent = 0
     homeScore = 0
     guestScore = 0
+
+    homeScoreEl.style.color = "#F94F6D";
+    guestScoreEl.style.color = "#F94F6D";
 }
 
 function highlightLeader() {
